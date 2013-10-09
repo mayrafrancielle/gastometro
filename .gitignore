@@ -1,0 +1,12 @@
+!.gitignore
+*.pyc
+*.pyo
+*.log
+*.project
+*.pydevproject
+*.settings
+settings_local.py
+restart.txt
+*.hg
+*.idea
+.idea
